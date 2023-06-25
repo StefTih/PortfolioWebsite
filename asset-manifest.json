@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortfolioWebsite/static/css/main.d9b6b74d.css",
-    "main.js": "/PortfolioWebsite/static/js/main.85fdd815.js",
+    "main.js": "/PortfolioWebsite/static/js/main.98dbc7db.js",
     "static/media/chess_management_system.png": "/PortfolioWebsite/static/media/chess_management_system.8bad8c7198c3bfe2decc.png",
     "static/media/my_image.png": "/PortfolioWebsite/static/media/my_image.858acd4c2698d936af6f.png",
     "static/media/backstreetCycles.png": "/PortfolioWebsite/static/media/backstreetCycles.c4d40cd36f5d0345bf1d.png",
@@ -11,10 +11,10 @@
     "static/media/tish_logo-removebg-preview.png": "/PortfolioWebsite/static/media/tish_logo-removebg-preview.5c62db33d8f933033c27.png",
     "index.html": "/PortfolioWebsite/index.html",
     "main.d9b6b74d.css.map": "/PortfolioWebsite/static/css/main.d9b6b74d.css.map",
-    "main.85fdd815.js.map": "/PortfolioWebsite/static/js/main.85fdd815.js.map"
+    "main.98dbc7db.js.map": "/PortfolioWebsite/static/js/main.98dbc7db.js.map"
   },
   "entrypoints": [
     "static/css/main.d9b6b74d.css",
-    "static/js/main.85fdd815.js"
+    "static/js/main.98dbc7db.js"
   ]
 }
