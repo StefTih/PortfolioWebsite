@@ -1,4 +1,4 @@
-# Welcome to my Portfolion website
+# Welcome to my Portfolio website
 
 Hi, my name is Tihomir Stefanov. I am a third year student at King's College London studying Computer Science. Since I did not want to clutter my CV with all the information about my past projects and work done I've created this website portfolio interactively introduces the recruiter and any person interested in the work I have done in the past in a simple an effective way. 
 
