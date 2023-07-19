@@ -51,3 +51,4 @@ export const UTILEM_FRONTEND = "https://github.com/StefTih/utilem-customer-websi
 export const UTILEM_BACKEND = "https://github.com/StefTih/utilem-customer-website-backend"
 export const UTILEM_UTLITY = "https://github.com/StefTih/UtilityRepository/tree/develop"
 export const CHESS_MANAGEMENT_CLUB = "https://github.com/StefTih/SEG-small-group-coursework"
+export const DISSERTATION = "https://github.com/StefTih/FootballPredictionModel"
