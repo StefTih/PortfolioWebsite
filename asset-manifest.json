@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/PortfolioWebsite/static/css/main.d9b6b74d.css",
-    "main.js": "/PortfolioWebsite/static/js/main.5d267e72.js",
+    "main.js": "/PortfolioWebsite/static/js/main.4af82cfc.js",
     "static/media/evaluating_machine_learning_models_for_football_predictions_report.pdf": "/PortfolioWebsite/static/media/evaluating_machine_learning_models_for_football_predictions_report.1fb3a0408ffefa22a6b7.pdf",
+    "static/media/my_image.png": "/PortfolioWebsite/static/media/my_image.9bc9a90a152e36f217c6.png",
     "static/media/chess_management_system.png": "/PortfolioWebsite/static/media/chess_management_system.8bad8c7198c3bfe2decc.png",
-    "static/media/my_image.png": "/PortfolioWebsite/static/media/my_image.858acd4c2698d936af6f.png",
     "static/media/backstreetCycles.png": "/PortfolioWebsite/static/media/backstreetCycles.c4d40cd36f5d0345bf1d.png",
+    "static/media/Tihomir_Stefanov_CV.pdf": "/PortfolioWebsite/static/media/Tihomir_Stefanov_CV.c0fc8056b5d09801d6f2.pdf",
     "static/media/utilem_image.jpeg": "/PortfolioWebsite/static/media/utilem_image.46fc6372d6b18cc9732a.jpeg",
-    "static/media/ts_cv.pdf": "/PortfolioWebsite/static/media/ts_cv.b28d5671e65f6d2e7ee0.pdf",
     "static/media/my_about_image.jpg": "/PortfolioWebsite/static/media/my_about_image.1c5261a792d75b92092b.jpg",
     "static/media/tish_logo-removebg-preview.png": "/PortfolioWebsite/static/media/tish_logo-removebg-preview.5c62db33d8f933033c27.png",
     "static/media/evaluating_ml_models.png": "/PortfolioWebsite/static/media/evaluating_ml_models.ea202fcf0b6b08a75f45.png",
     "index.html": "/PortfolioWebsite/index.html",
     "main.d9b6b74d.css.map": "/PortfolioWebsite/static/css/main.d9b6b74d.css.map",
-    "main.5d267e72.js.map": "/PortfolioWebsite/static/js/main.5d267e72.js.map"
+    "main.4af82cfc.js.map": "/PortfolioWebsite/static/js/main.4af82cfc.js.map"
   },
   "entrypoints": [
     "static/css/main.d9b6b74d.css",
-    "static/js/main.5d267e72.js"
+    "static/js/main.4af82cfc.js"
   ]
 }
